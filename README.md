@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/act65/Map.png?label=ready&title=Ready)](https://waffle.io/act65/Map)
 # Map
 
 A project to make a mind map of topics/fields/ideas in artificial intelligence/machine learning, cognitive sciences, computational complexity, … and other related areas.
